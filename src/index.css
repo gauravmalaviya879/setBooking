@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.setcol {
+    background-image: linear-gradient(#dda15e, #fefae0);
+}
+
+.rotat {
+    transform: rotate(90deg);
+    height: 80px;
+}
